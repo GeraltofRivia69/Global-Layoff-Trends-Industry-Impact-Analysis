@@ -1,4 +1,6 @@
 Global Layoff Trends & Industry Impact Analysis
+
+
 📌 Project Overview
 
 This project analyzes global layoff trends across industries, companies, countries, and funding stages using SQL and Power BI. The objective is to transform raw layoff data into meaningful business insights through data cleaning, exploration, and interactive dashboarding.
